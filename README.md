@@ -1,7 +1,9 @@
 # Book-Recommendation-System
 Welcome to the Book Recommendation System! 📚✨ This project aims to help users discover new books based on their preferences and reading history using collaborative filtering and content-based recommendation techniques.
 
-Types of Recommendation System :
+**Types of Recommendation System :
+**
+
 1 ) Content Based :
 Content-based systems, which use characteristic information and takes item attriubutes into consideration .
 
@@ -44,18 +46,26 @@ Combination of both and used now a days .
 Uses : word2vec , embedding .
 
 
-Technologies Used
+**Technologies Used
+**
 
 Programming Language: Python
+
 Libraries:
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib (for visualizations)
+
 Data Storage: CSV files (can be extended to databases)
 
 
-Given Data
+**Given Data
+**
 
 The Book-Crossing dataset comprises 3 files.
 
@@ -66,6 +76,7 @@ Books : Books are identified by their respective ISBN. Invalid ISBNs have alread
 Ratings : Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
 
-Contributing
+**Contributing
+**
 
 Contributions are welcome! If you have suggestions for improvements or want to add features, feel free to open an issue or submit a pull request.
